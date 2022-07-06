@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kippulainen04" alt="kippulainen04" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kippu_p" target="blank"><img src="https://img.shields.io/twitter/follow/kippu_p?logo=twitter&style=for-the-badge" alt="kippu_p" /></a> </p>
 
 - 🔭 I’m currently working on **my new portfolio page**
 
@@ -24,7 +23,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kippulainen04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kippulainen04" height="30" width="40" /></a>
-<a href="https://twitter.com/kippu_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kippu_p" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nhan-phan-77358a141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhan-phan-77358a141" height="30" width="40" /></a>
 <a href="https://dribbble.com/kippulainen04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kippulainen04" height="30" width="40" /></a>
 <a href="https://www.behance.net/nioph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nioph" height="30" width="40" /></a>
