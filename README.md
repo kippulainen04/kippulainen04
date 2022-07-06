@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **a full-stack project**
 
-- 👨‍💻 All of my projects are available at [https://nio-phan.netlify.app/](https://nio-phan.netlify.app/)
+- 👨‍💻 All of my showcases are available [here](https://nio-phan.netlify.app/)
 
 - 💬 Ask me about **React and Javascript**
 
