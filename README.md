@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **my new portfolio page**
 
-- 🌱 I’m currently learning **Typescript, Docker and ReactNative**
+- 🌱 I’m currently learning **Typescript and ReactNative**
 
 - 👯 I’m looking to collaborate on **a full-stack project**
 
