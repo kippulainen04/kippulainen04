@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Typescript and ReactNative**
 
-- 👯 I’m looking to collaborate on **a full-stack project**
+- 🎯 I’m looking to collaborate on **a full-stack project**
 
 - 👨‍💻 All of my showcases are available [here](https://nio-phan.netlify.app/)
 
